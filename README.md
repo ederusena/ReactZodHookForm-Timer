@@ -22,3 +22,6 @@ npm i zod
 ### Biblioteca para integração com react-hook-form
 
 npm i @hookform/resolvers
+
+### Biblioteca para calculos de datas
+npm i date-fns
